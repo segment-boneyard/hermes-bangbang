@@ -15,6 +15,7 @@ A `!!` command for Hermes, just like your shell.
     "hermes-bangbang": true
   }
 }
+```
 
 ## License
 
