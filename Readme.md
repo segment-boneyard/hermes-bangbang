@@ -1,7 +1,7 @@
 
 # hermes-bangbang
 
-A `!!` command for Hermes, just like your shell.
+A `!!` command for [Hermes](http://segmentio.github.io/hermes), just like your shell.
 
 ## Installation
 
