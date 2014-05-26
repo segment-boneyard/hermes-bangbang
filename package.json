@@ -1,6 +1,6 @@
 {
   "name": "hermes-bangbang",
-  "description": "A !! command for Hermes, like your shell.",
+  "description": "A !! command for Hermes, just like your shell.",
   "repository": "git://github.com/segmentio/hermes-bangbang.git",
   "version": "0.0.1",
   "license": "MIT",

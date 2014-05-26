@@ -1,12 +1,20 @@
 
 # hermes-bangbang
 
-A `!!` command for Hermes, like your shell.
+A `!!` command for Hermes, just like your shell.
 
 ## Installation
 
     $ npm install hermes-bangbang
 
+## Usage
+
+```json
+{
+  "plugins": {
+    "hermes-bangbang": true
+  }
+}
 
 ## License
 
